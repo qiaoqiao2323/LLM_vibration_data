@@ -19,11 +19,11 @@ The `visualization` folder contains two subfolders:
    - Each video lasts for 10 seconds.
 
 ---
-## LLM_Prompt Folder
+## LLM_prompt Folder
 
 The `LLM_prompt` folder contains a Python script for generating vibration data:
 
-- Running the script `Prompt.py` will generate Python scripts for the 10 emotions and 6 touch gestures.
+- Running the script `Prompt.py` will generate Python scripts for the 10 emotions and 6 touch gestures vibration data.
 - To execute, use the following command:
   ```bash
   python3 Prompt.py
